@@ -1,0 +1,139 @@
+
+body {
+    background-image: url("./photo/image\ 3.png");
+    background-color: #F4F6F9;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    color: #263445;
+    font-family:  Arial, sans-serif;
+    margin-left: auto;
+    margin-right: auto;
+    width:60%;
+    align-items: center;
+}
+
+@media (max-width: 900px){
+    body{
+        width:100%
+    }
+}
+
+#TOP {
+    text-align: center;
+    background-color: #FFFFFF;
+    color: #263445;
+    padding-top: 10px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px 1px #B9C7D6;
+}
+
+
+#TOP2 {
+    background-color: rgba(225, 233, 242, 0.95);
+    padding: 10px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    text-align: center;
+}
+
+.nav {
+    background-color: #DCE8F4;
+    border: 1px solid #9FB4CB;
+    color: #263445;
+    padding: 2px;
+    border-radius: 5px;
+}
+
+.A {
+    text-align: center;
+    background-color: rgba(255, 255, 255, 0.94);
+    color: #263445;
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    box-shadow: 0px 0px 10px 1px #B9C7D6;
+    margin-bottom: 20px;
+    padding: 10px;
+}
+
+#about {
+    background-color: rgba(232, 238, 245, 0.95);
+    color: #263445;
+    margin-bottom: 0px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    text-align: center;
+}
+
+#interests {
+    background-color: rgba(232, 238, 245, 0.95);
+    color: #263445;
+    margin-bottom: 0px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    text-align: center;
+}
+
+#contacts {
+    background-color: rgba(232, 238, 245, 0.95);
+    color: #263445;
+    margin-bottom: 0px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    text-align: center;
+}
+
+#education {
+    background-color: rgba(232, 238, 245, 0.95);
+    color: #263445;
+    margin-bottom: 0px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    text-align: center;
+}
+
+#links {
+    background-color: rgba(232, 238, 245, 0.95);
+    color: #263445;
+    margin-bottom: 0px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    text-align: center;
+}
+
+#skills {
+    background-color: rgba(232, 238, 245, 0.95);
+    color: #263445;
+    margin-bottom: 0px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    text-align: center;
+}
+
+#flexabout {
+    display: flex;
+    flex-direction: row;
+}
+
+#flexinterests {
+    display: flex;
+    flex-direction: row-reverse;
+}
+
+.B {
+    text-align: center;
+}
+
+
+#footer {
+    background-color: #E1E9F2;
+    color: #263445;
+    text-align: center;
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: 0px 0px 10px 1px #B9C7D6;
+    margin-top: 20px;
+}
+
+
