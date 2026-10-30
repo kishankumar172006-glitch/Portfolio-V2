@@ -26,6 +26,12 @@ body {
     box-shadow: 0px 0px 10px 1px #B9C7D6;
 }
 
+.image {
+    border-color: #263445;
+    border-width: 5px;
+    border-style:solid;
+    border-radius: 10px;
+}
 
 #TOP2 {
     background-color: rgba(225, 233, 242, 0.95);
@@ -45,7 +51,7 @@ body {
 
 .A {
     text-align: center;
-    background-color: rgba(255, 255, 255, 0.94);
+    background-color: rgba(255, 255, 255, 0.95);
     color: #263445;
     border-bottom-right-radius: 10px;
     border-bottom-left-radius: 10px;
@@ -53,58 +59,14 @@ body {
     padding: 10px;
 }
 
-#about {
+.z {
     background-color: rgba(232, 238, 245, 0.95);
     color: #263445;
     margin-bottom: 0px;
     border-top-left-radius: 10px;
     border-top-right-radius: 10px;
     text-align: center;
-}
-
-#interests {
-    background-color: rgba(232, 238, 245, 0.95);
-    color: #263445;
-    margin-bottom: 0px;
-    border-top-left-radius: 10px;
-    border-top-right-radius: 10px;
-    text-align: center;
-}
-
-#contacts {
-    background-color: rgba(232, 238, 245, 0.95);
-    color: #263445;
-    margin-bottom: 0px;
-    border-top-left-radius: 10px;
-    border-top-right-radius: 10px;
-    text-align: center;
-}
-
-#education {
-    background-color: rgba(232, 238, 245, 0.95);
-    color: #263445;
-    margin-bottom: 0px;
-    border-top-left-radius: 10px;
-    border-top-right-radius: 10px;
-    text-align: center;
-}
-
-#links {
-    background-color: rgba(232, 238, 245, 0.95);
-    color: #263445;
-    margin-bottom: 0px;
-    border-top-left-radius: 10px;
-    border-top-right-radius: 10px;
-    text-align: center;
-}
-
-#skills {
-    background-color: rgba(232, 238, 245, 0.95);
-    color: #263445;
-    margin-bottom: 0px;
-    border-top-left-radius: 10px;
-    border-top-right-radius: 10px;
-    text-align: center;
+    padding: 10px;
 }
 
 #flexabout {
@@ -128,6 +90,5 @@ body {
     text-align: center;
     padding: 10px;
     border-radius: 5px;
-    box-shadow: 0px 0px 10px 1px #B9C7D6;
     margin-top: 20px;
 }
