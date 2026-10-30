@@ -23,7 +23,6 @@ body {
     color: #263445;
     padding-top: 10px;
     border-radius: 10px;
-    box-shadow: 0px 0px 10px 1px #B9C7D6;
 }
 
 .image {
@@ -34,7 +33,7 @@ body {
 }
 
 #TOP2 {
-    background-color: rgba(225, 233, 242, 0.95);
+    background-color: rgba(225, 233, 242,1);
     padding: 10px;
     border-bottom-left-radius: 5px;
     border-bottom-right-radius: 5px;
@@ -47,11 +46,13 @@ body {
     color: #263445;
     padding: 2px;
     border-radius: 5px;
+    text-decoration:none;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
 .A {
     text-align: center;
-    background-color: rgba(255, 255, 255, 0.95);
+    background-color: rgba(255, 255, 255,1);
     color: #263445;
     font-size: x-large;
     font-family:'Times New Roman', Times, serif;
@@ -62,7 +63,7 @@ body {
 }
 
 .z {
-    background-color: rgba(232, 238, 245, 0.95);
+    background-color: rgba(232, 238, 245,1);
     color: #263445;
     margin-bottom: 0px;
     border-top-left-radius: 10px;
@@ -83,6 +84,7 @@ body {
 
 .B {
     text-align: center;
+
 }
 
 
